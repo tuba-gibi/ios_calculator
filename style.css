@@ -34,10 +34,11 @@
   border-radius: 50%;
   padding: 0.6rem;
   padding-top: 0.9rem;
-  transition: 1s;
+  transition: .3s;
 }
 .box:hover{
     opacity: .8;
+    cursor: help;
 }
 .orange {
   background-color: orange;
